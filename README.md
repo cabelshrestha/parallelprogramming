@@ -6,6 +6,7 @@ http://www.open-mpi.org/
 
 ## Project Wiki Pages
 
-[Mandelbrot](https://github.com/cabelshrestha/parallelprogrammingOpenMPI/wiki/MandelBrot)
+* [Mandelbrot](https://github.com/cabelshrestha/parallelprogrammingOpenMPI/wiki/MandelBrot)
+* [Vibrating String](https://github.com/cabelshrestha/parallelprogrammingOpenMPI/wiki/Vibrating-String)
 
 

@@ -1,5 +1,5 @@
 # Parallel Programming with Open MPI
-Parallel Programming in C using Open MPI (Message Passing Interface).
+Parallel Programming in C using Open MPI (Message Passing Interface) library.
 
 ## Reference
 http://www.open-mpi.org/
